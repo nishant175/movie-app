@@ -20,7 +20,11 @@ const SearchResults = (props) => {
       {filteredData.map((data, index) => {
         return (
           <div className="text-center mt-2 mt-2" key={index}>
-            <Link type="button" className="form-control btn btn-outline-dark">
+            <Link
+              to={"/detail/gadar2"}
+              type="button"
+              className="form-control btn btn-outline-dark"
+            >
               {data.title}
             </Link>
           </div>
