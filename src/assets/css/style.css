@@ -1,0 +1,26 @@
+a {
+  color: rgba(33, 37, 41, 0.75)  
+}
+
+.day-mode{
+  background-color: #f5f5f5;
+}
+
+.night-mode{
+    background-color: #202421;
+    color: white;
+}
+
+.night-mode a {
+    color: white;
+}
+
+.btn-close {
+    background-color: white;
+  }
+
+.loading-skelton-main{
+  height: 400px;
+  padding-top: 200px;
+}
+  

@@ -1,0 +1,25 @@
+import familyImg from "../assets/images/family.jpg";
+import comedyImg from "../assets/images/comedy.jpg";
+import dramaImg from "../assets/images/drama.jpg";
+import actionImg from "../assets/images/action.jpg";
+import cardImg from "../assets/images/card.svg";
+import comedy1Img from "../assets/images/comedy1.jpg";
+import drama1Img from "../assets/images/drama1.jpg";
+import action1Img from "../assets/images/action1.jpg";
+import action2Img from "../assets/images/action2.jpg";
+import comedy2Img from "../assets/images/comedy.jpg";
+import raOne from "../assets/images/ra-one.jpg";
+import banjo from "../assets/images/banjo.jpg";
+
+export const family = familyImg;
+export const comedy = comedyImg;
+export const drama = dramaImg;
+export const action = actionImg;
+export const cardImage = cardImg;
+export const comedy1 = comedy1Img;
+export const comedy2 = comedy2Img;
+export const action1 = action1Img;
+export const action2 = action2Img;
+export const drama1 = drama1Img;
+export const RaOne = raOne;
+export const Banjo = banjo;
